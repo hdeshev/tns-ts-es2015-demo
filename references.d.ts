@@ -1,0 +1,2 @@
+/// <reference path="./node_modules/tns-core-modules/tns-core-modules.es6.d.ts" /> Needed for autocompletion and compilation.
+declare type Thenable<T> = PromiseLike<T>;
